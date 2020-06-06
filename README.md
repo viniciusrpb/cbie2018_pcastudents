@@ -1,5 +1,21 @@
-### Using Principal Component Analysis to support students' performance prediction and data analysis
+# Using Principal Component Analysis to support students' performance prediction and data analysis
 
-# Authors
+### Authors
 
-Brazilian Congress on Computers in Education (CBIE) - Brazilian Symposium on Computers in Education (SBIE) 2018, Fortaleza-CE
+- Vinícius Ruela Pereira Borges (UnB)
+- Stéfany Leal Esteves (Ufla)
+- Patrícia De Nardi Araújo (Ufla)
+- Lucas Charles Oliveira (Ufla)
+- Maristela Terto de Holanda (UnB)
+
+### Conference
+
+Brazilian Congress on Computers in Education (CBIE), Brazilian Symposium on Computers in Education (SBIE)
+
+Fortaleza, Ceará, 2018
+
+### Presentation
+
+File 
+
+### Presentation
