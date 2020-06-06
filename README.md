@@ -16,6 +16,9 @@ Fortaleza, Ceará, 2018
 
 ### Presentation
 
-File 
+File *sbie2018.pdf*.
 
-### Presentation
+### Dataset
+
+https://archive.ics.uci.edu/ml/datasets/student+performance
+
