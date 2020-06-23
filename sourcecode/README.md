@@ -13,3 +13,7 @@
 ### Run
 
 > java -jar weka.jar
+
+### Observation
+
+I am working in a prototype to convey the methodology in a single place. 
